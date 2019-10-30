@@ -7,10 +7,12 @@ example can be found [on codepen here](https://codepen.io/tsquire5/pen/yLLgRLb)
 
 ##Useful Links
 
-- [Curblr Sepecification](https://github.com/sharedstreets/curblr)   
-- [GeoJson Specification](https://tools.ietf.org/html/rfc7946)
-- [Mapbox Documentation](https://docs.mapbox.com/mapbox-gl-js/examples/)
+- [Curblr sepecification](https://github.com/sharedstreets/curblr)   
+- [GeoJson specification](https://tools.ietf.org/html/rfc7946)
+- [Mapbox documentation](https://docs.mapbox.com/mapbox-gl-js/examples/)
 - [A working example](https://codepen.io/tsquire5/pen/yLLgRLb)   
+- [Swagger documentation](https://swagger.io/blog/api-development/swaggerhub-101-ondemand-tutorial/) 
+- [Our swagger doc](hackathonswaggerdoc.json) 
 - [Introduction to how to use pastman](https://learning.getpostman.com/getting-started/)   
 - [Our postman collection](Hackathon.postman_collection.json)   
 
