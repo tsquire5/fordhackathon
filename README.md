@@ -13,7 +13,7 @@ example can be found [on codepen here](https://codepen.io/tsquire5/pen/yLLgRLb)
 - [A working example](https://codepen.io/tsquire5/pen/yLLgRLb)   
 - [Swagger documentation](https://swagger.io/blog/api-development/swaggerhub-101-ondemand-tutorial/) 
 - [Our swagger doc](hackathonswaggerdoc.json) 
-- [Introduction to how to use pastman](https://learning.getpostman.com/getting-started/)   
+- [Introduction to how to use postman](https://learning.getpostman.com/getting-started/)
 - [Our postman collection](Hackathon.postman_collection.json)   
 
 ## How to create a viewport
