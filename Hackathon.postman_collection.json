@@ -1,0 +1,86 @@
+{
+	"info": {
+		"_postman_id": "cac00cff-0b70-44c4-888d-a797844191b3",
+		"name": "Ford Hackathon",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Kerbside",
+			"item": [
+				{
+					"name": "Health",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							},
+							{
+								"key": "Ocp-Apim-Subscription-Key",
+								"value": "{{ocp_apim_subscription_key}}"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "{{kerbside_curblr_url}}/health",
+							"host": [
+								"{{kerbside_curblr_url}}"
+							],
+							"path": [
+								"health"
+							]
+						},
+						"description": "Checks kerbside is running"
+					},
+					"response": []
+				},
+				{
+					"name": "Get Features By Viewport",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							},
+							{
+								"key": "Ocp-Apim-Subscription-Key",
+								"value": "{{ocp_apim_subscription_key}}"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "{{kerbside_curblr_url}}/features?viewport=51.536393751918915,-0.1412890195847183,51.5397303909963,-0.13700821399694973",
+							"host": [
+								"{{kerbside_curblr_url}}"
+							],
+							"path": [
+								"features"
+							],
+							"query": [
+								{
+									"key": "viewport",
+									"value": "51.536393751918915,-0.1412890195847183,51.5397303909963,-0.13700821399694973"
+								}
+							]
+						},
+						"description": "Finds the features inside a given viewport "
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
