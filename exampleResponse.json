@@ -1,0 +1,3961 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.13928619720068192,
+            51.53974253619081
+          ],
+          [
+            -0.1390471076674527,
+            51.53946199880376
+          ]
+        ]
+      },
+      "properties": {
+        "images": [],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-G"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "7c22e175-63ff-a6c1-2736-18b6139da473",
+          "sideOfStreet": "right",
+          "shstLocationStart": 13.097331424429544,
+          "shstLocationEnd": 48.403319129207226,
+          "objectId": "090c4033-7aa2-48d7-9171-07a695a359d2",
+          "streetName": "109 Camden Street, London, NW1 0HX, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.13792000601972682,
+            51.53832049202318
+          ],
+          [
+            -0.13781732301949418,
+            51.53819962978231
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/53A77CA4-3E5D-4C2E-B6EC-81C2466A2989"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "mo",
+                          "tu",
+                          "we",
+                          "th",
+                          "fr"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "08:30",
+                        "to": "18:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "beaab9f1-5d0a-a009-08bd-efb7e0fc630c",
+          "sideOfStreet": "left",
+          "shstLocationStart": 7.302286141291096,
+          "shstLocationEnd": 22.50557481233182,
+          "objectId": "0a175fe7-fbf8-4beb-b961-58c09cde0b65",
+          "streetName": "Camden Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.13783637001660945,
+            51.538083150374916
+          ],
+          [
+            -0.13771739353334228,
+            51.537943110014325
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/DA877882-E220-4A8B-A7C1-69D446C43CD8"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-G"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "beaab9f1-5d0a-a009-08bd-efb7e0fc630c",
+          "sideOfStreet": "right",
+          "shstLocationStart": 33.34553681379437,
+          "shstLocationEnd": 50.95725766992851,
+          "objectId": "0a401bd0-6202-4ba5-b1e9-e9eec0d29fba",
+          "streetName": "16 Camden Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.13853807396186915,
+            51.538160064526394
+          ],
+          [
+            -0.13829282962127576,
+            51.5382625566222
+          ]
+        ]
+      },
+      "properties": {
+        "images": [],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "carclub",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "CarClub"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr",
+                    "sa",
+                    "su"
+                  ]
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "bcdc8405-09dc-a210-bf53-3f5fc5207c30",
+          "sideOfStreet": "left",
+          "shstLocationStart": 110.36602116076895,
+          "shstLocationEnd": 130.8008116141786,
+          "objectId": "0c20cfc7-003f-4f0c-9965-940c6921005d",
+          "streetName": "53 Pratt Street, London, NW1 0BJ, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.14012989487042116,
+            51.53907176166356
+          ],
+          [
+            -0.13947514582104514,
+            51.539278853642735
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/DF3268E1-F968-4161-AEDC-FBC8EB02DAEF"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "d30fe498-2fa0-db38-1059-72c96505b3a3",
+          "sideOfStreet": "left",
+          "shstLocationStart": 66.52542307031497,
+          "shstLocationEnd": 117.32765289937517,
+          "objectId": "0d02c335-e89f-4a6f-ae2a-a797875a3b6e",
+          "streetName": "NW1 0HU, London, England, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1373384195549899,
+            51.53966936451087
+          ],
+          [
+            -0.13774319331791038,
+            51.53953744238538
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/318AB10C-BA7F-4E08-8C49-7406DC07949F"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-G"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "57c6460c-5280-904c-6697-2ec0076b9b26",
+          "sideOfStreet": "left",
+          "shstLocationStart": 27.80611495500446,
+          "shstLocationEnd": 59.410376636207076,
+          "objectId": "0fc4ccf6-9d6e-41a8-9547-d3af133e6a0c",
+          "streetName": "16 Georgiana Street, London, NW1 0EA, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1395668273476003,
+            51.53713623039463
+          ],
+          [
+            -0.1392047100712263,
+            51.53674951996467
+          ]
+        ]
+      },
+      "properties": {
+        "images": [],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "75cee0d0-4650-6cc6-0d67-9a83aaffcb95",
+          "sideOfStreet": "right",
+          "shstLocationStart": 55.57068065154776,
+          "shstLocationEnd": 105.29785050970555,
+          "objectId": "199cd00f-4571-4ed0-8f2a-6486bfc3f19e",
+          "streetName": "59 Bayham Street, London, NW1 0AA, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.13841359846784568,
+            51.53626731730604
+          ],
+          [
+            -0.13803307064392206,
+            51.536394274961005
+          ],
+          [
+            -0.13703218542216186,
+            51.53671839770489
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/44E934AC-7C80-4E54-A831-DC33BC420E48"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "mo",
+                          "tu",
+                          "we",
+                          "th",
+                          "fr"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "08:30",
+                        "to": "18:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "sa"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "09:30",
+                        "to": "17:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "d295fc4d-d84b-cb9d-3fd3-e3ae6e44705e",
+          "sideOfStreet": "left",
+          "shstLocationStart": 18.811415456436713,
+          "shstLocationEnd": 45.42,
+          "objectId": "1b367022-4f1c-4d63-8a63-8874a2c23c89",
+          "streetName": "21 Plender Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1399223931372602,
+            51.5391090958528
+          ],
+          [
+            -0.14027142758802594,
+            51.5389986989988
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/3D381AB2-1D94-4326-8B2C-B77190337C18"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "4d627244-3460-2bf3-4aee-f987c5412241",
+          "sideOfStreet": "left",
+          "shstLocationStart": 75.52063353370674,
+          "shstLocationEnd": 102.60261138646781,
+          "objectId": "26586af4-fbb9-44da-86d8-a228552f377c",
+          "streetName": "21 Carol Street, London, NW1 0HT, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.13765770392341387,
+            51.53787285281502
+          ],
+          [
+            -0.13756526273501637,
+            51.53776404562052
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/BB2723D7-5269-4862-9B74-C3E73640508F"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-G"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "beaab9f1-5d0a-a009-08bd-efb7e0fc630c",
+          "sideOfStreet": "right",
+          "shstLocationStart": 59.79295535327596,
+          "shstLocationEnd": 73.47682266802063,
+          "objectId": "2d5669c8-f28b-4658-9e00-aed84a1899fa",
+          "streetName": "14 Camden Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.13875397916592042,
+            51.539127962642915
+          ],
+          [
+            -0.13843305179521911,
+            51.538772291656215
+          ]
+        ]
+      },
+      "properties": {
+        "images": [],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-G"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "0fa831a8-d275-6a64-76fb-119fda06374b",
+          "sideOfStreet": "right",
+          "shstLocationStart": 9.067351534616376,
+          "shstLocationEnd": 54.40930169642065,
+          "objectId": "3134c2b0-2993-45f4-af91-96671733cf8d",
+          "streetName": "Camden Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.13932280762198848,
+            51.53932703701799
+          ],
+          [
+            -0.1391847880502397,
+            51.539370691523956
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/5C132C45-833A-4327-B57E-9868CF8C9B2F"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "d30fe498-2fa0-db38-1059-72c96505b3a3",
+          "sideOfStreet": "left",
+          "shstLocationStart": 129.14739769913393,
+          "shstLocationEnd": 139.85614877950152,
+          "objectId": "45524a89-b078-48cc-afda-d96054c1eea1",
+          "streetName": "Carol Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.14061363978965805,
+            51.539373466490204
+          ],
+          [
+            -0.14052384965336312,
+            51.539275134874416
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/FFBEB84B-DDE5-47E0-B32D-8317A9F57136"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "d30fe498-2fa0-db38-1059-72c96505b3a3",
+          "sideOfStreet": "left",
+          "shstLocationStart": 6.414608111779643,
+          "shstLocationEnd": 18.989019838746913,
+          "objectId": "4ce45683-f04a-48a7-9dac-c6359d9113f0",
+          "streetName": "Carol Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.140464107334632,
+            51.53920970943935
+          ],
+          [
+            -0.14040546312143365,
+            51.53914548656947
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/726CD130-E8C2-481A-B71D-7F92895CFF58"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "d30fe498-2fa0-db38-1059-72c96505b3a3",
+          "sideOfStreet": "left",
+          "shstLocationStart": 27.35607535216934,
+          "shstLocationEnd": 35.56870937362932,
+          "objectId": "549c4d56-3d1f-4834-b927-bf41250c7bb7",
+          "streetName": "24 Carol Street, London, NW1 0HU, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.14045978281222513,
+            51.53916496264288
+          ],
+          [
+            -0.14051219058992645,
+            51.53922235582295
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/9D1976E9-6161-40FF-AC43-50D3F156E1D3"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "4d627244-3460-2bf3-4aee-f987c5412241",
+          "sideOfStreet": "left",
+          "shstLocationStart": 124.88851272363102,
+          "shstLocationEnd": 132.2277784701722,
+          "objectId": "55fbf94e-ae7e-41fb-81fa-94921d53c267",
+          "streetName": "45 Carol Street, London, NW1 0HT, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.14078465092568507,
+            51.53936135196774
+          ],
+          [
+            -0.1411939898143494,
+            51.5392144436671
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/C868C200-AF05-4EB9-915A-ECB090AA01C8"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "mo",
+                          "tu",
+                          "we",
+                          "th",
+                          "fr"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "08:30",
+                        "to": "18:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "sa",
+                          "su"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "09:30",
+                        "to": "17:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "5698a70b-8673-90d3-d053-11940155f283",
+          "sideOfStreet": "left",
+          "shstLocationStart": 9.850275738453838,
+          "shstLocationEnd": 42.55532238613642,
+          "objectId": "591c7ba9-6db4-4327-a591-c7fcd749f55c",
+          "streetName": "8 Greenland Road, London, NW1 0AY, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.138112782320859,
+            51.5382750926894
+          ],
+          [
+            -0.138682836132157,
+            51.5380441785863
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/9E44B6EA-51D2-41C3-86A8-BE5644CA8FF7"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "69d889c4-f2ae-4b73-ad9b-96e530f9fc16",
+          "streetName": "16 Pratt Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.137534479280281,
+            51.5379516158257
+          ],
+          [
+            -0.137433906596041,
+            51.5378235532562
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/7888A9E6-B730-4C1B-9CA6-A5462AA130A6"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-G"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "6d86f7d2-a6b3-4fff-8aa1-289e2f048cf4",
+          "streetName": "72 Camden Street, London, NW1 0DX, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.138120009267308,
+            51.5395033605595
+          ],
+          [
+            -0.138429345932043,
+            51.5394152901675
+          ]
+        ]
+      },
+      "properties": {
+        "images": [],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-G"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "732ac69c-07fd-41d0-aa51-4089118cf4eb",
+          "streetName": "28 Georgiana Street, London, NW1 0EA, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.140554775165634,
+            51.539493417407
+          ],
+          [
+            -0.140717964018454,
+            51.5394352239965
+          ],
+          [
+            -0.141066576824018,
+            51.5393029857274
+          ],
+          [
+            -0.141202567384985,
+            51.5392677990057
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/2CD88003-44A5-4D6F-963C-415F39D382D9"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "mo",
+                          "tu",
+                          "we",
+                          "th",
+                          "fr"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "08:30",
+                        "to": "18:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "sa",
+                          "su"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "09:30",
+                        "to": "17:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "75920eb3-f910-46d4-b250-591a7aa45d4d",
+          "streetName": "13 Greenland Road, London, NW1 0AX, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.137513935708059,
+            51.5377093859218
+          ],
+          [
+            -0.137422558179042,
+            51.5376182227146
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/5C8990CA-BA46-424E-9D5D-72FDC7C396A7"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-G"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "7cc5a046-7a24-4827-920b-3eacfca659fb",
+          "streetName": "NW1 0HL, London, England, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.139504268204394,
+            51.5392459810567
+          ],
+          [
+            -0.139771838598281,
+            51.5391497174521
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/C2086140-7055-4AE6-B1E1-6F88E58C1B2D"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "8afbb8d1-2dbf-47a2-93ce-cceafb59c691",
+          "streetName": "5 Carol Street, London, NW1 0HT, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.140529442674619,
+            51.5394293746475
+          ],
+          [
+            -0.139411002416646,
+            51.5397892369969
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/BF0C7B75-04F2-497D-B96E-0CB3E0315726"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "9eab9f86-2251-48f9-87eb-3f18d28e4888",
+          "streetName": "32 Greenland Road, London, NW1 0AY, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.140316388340352,
+            51.5390920180823
+          ],
+          [
+            -0.140365590865107,
+            51.5391532235072
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/875AC89E-6585-4851-9303-1A47C0399476"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "9ff9f2c6-1daa-4ce4-8e00-b96c17f9e465",
+          "streetName": "24 Carol Street, London, NW1 0HU, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.138735985854259,
+            51.5391527172944
+          ],
+          [
+            -0.138414120386272,
+            51.5387973723394
+          ]
+        ]
+      },
+      "properties": {
+        "images": [],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-G"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "a72ffbfd-23a5-4d64-a44a-7d99ef71d0e7",
+          "streetName": "Camden Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.137986097407924,
+            51.5382449858417
+          ],
+          [
+            -0.137927320638871,
+            51.5381838797695
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/DA70AF35-514F-409D-B5E7-9C94F6646A45"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "mo",
+                          "tu",
+                          "we",
+                          "th",
+                          "fr"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "08:30",
+                        "to": "18:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "aa9cc6c5-a40d-4be5-8629-08ebeae06b93",
+          "streetName": "80 Camden Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.140140822499557,
+            51.5396279609934
+          ],
+          [
+            -0.140401900768886,
+            51.5395456250792
+          ],
+          [
+            -0.140549675429745,
+            51.5395025448143
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/556D8A48-3415-47DE-ADAA-A6C5B6ED29A8"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "abf93664-eb6f-4020-a4a3-789d25c01247",
+          "streetName": "NW1 0AX, London, England, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.13684792295978,
+            51.5367228909156
+          ],
+          [
+            -0.137237533078277,
+            51.5366075518837
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/EB1826DC-BB96-4BFD-8969-7CDCE63AD68D"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "b17cb2a3-24fe-451b-94e9-b6cf0762ce63",
+          "streetName": "Plender Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.137849767283753,
+            51.5384600658461
+          ],
+          [
+            -0.137610096765953,
+            51.538568014745
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/F69BA5B3-C05D-4FB2-9137-95910E8DB5BA"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "mo",
+                          "tu",
+                          "we",
+                          "th",
+                          "fr"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "08:30",
+                        "to": "18:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "c81faac8-8a5c-4f30-9aa8-56920a37a293",
+          "streetName": "Pratt Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.137208603732884,
+            51.539798661587
+          ],
+          [
+            -0.137917423899381,
+            51.5395758444885
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/89E545AF-8BD7-4F63-AF46-04548DEDDF53"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-G"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "c83a9f9c-289a-47e0-af94-7b1f936ff2e6",
+          "streetName": "48 Georgiana Street, London, NW1 0EB, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.138883499105395,
+            51.5365053072513
+          ],
+          [
+            -0.138687697814482,
+            51.5362934231083
+          ]
+        ]
+      },
+      "properties": {
+        "images": [],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "mo",
+                          "tu",
+                          "we",
+                          "th",
+                          "fr"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "08:30",
+                        "to": "18:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "sa",
+                          "su"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "09:30",
+                        "to": "17:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "d9ac079b-e8ec-460e-8166-743082648514",
+          "streetName": "Bayham Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1376724344568,
+            51.5381071041253
+          ],
+          [
+            -0.137604685314705,
+            51.5379956686628
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/7D38CE48-0CDB-49EE-B5DD-AA027B774EAF"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-G"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "d9eee419-340f-48fe-b42d-13823cb25902",
+          "streetName": "Camden Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.138138484019447,
+            51.5394245896795
+          ],
+          [
+            -0.138496503084352,
+            51.5393191660453
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/38F68939-773A-47E1-BC2A-94E46D7AD410"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "mo",
+                          "tu",
+                          "we",
+                          "th",
+                          "fr"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "08:30",
+                        "to": "18:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "ddc5b22f-d259-4a01-b4d7-a08a7d0d435c",
+          "streetName": "29 Georgiana Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.137573469756899,
+            51.5365078094071
+          ],
+          [
+            -0.137709794491153,
+            51.5364610713724
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/CA3FCE11-EE45-46EE-8B99-3E54D04A83A5"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "mo",
+                          "tu",
+                          "we",
+                          "th",
+                          "fr"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "08:30",
+                        "to": "18:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "sa"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "09:30",
+                        "to": "17:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "e0815734-79f7-49d2-a8d1-680145493612",
+          "streetName": "69 Plender Street, London, NW1 0LB, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.137831143411296,
+            51.5364211189616
+          ],
+          [
+            -0.137951826679823,
+            51.5363866122673
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/EDB821B0-BDB4-4BFA-84E4-2FF39B4D8F93"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "mo",
+                          "tu",
+                          "we",
+                          "th",
+                          "fr"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "08:30",
+                        "to": "18:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "sa"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "09:30",
+                        "to": "17:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "f1deca2c-5602-41ba-9ef7-f0191c4223c4",
+          "streetName": "72 Plender Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.137275211116236,
+            51.5374271512367
+          ],
+          [
+            -0.136909218604894,
+            51.5370142059094
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesdev.blob.core.windows.net/images/1A76AC42-4ED1-472C-A1E0-9ADB8E95FD73"
+        ],
+        "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-G"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": {
+              "userClasses": [
+                {
+                  "classes": [
+                    "ResidentPermit CA-F"
+                  ]
+                }
+              ]
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "sideOfStreet": "left",
+          "shstLocationStart": 0.0,
+          "shstLocationEnd": 0.0,
+          "objectId": "f50bdf2d-a5a1-4ff4-8ca1-07954c9458b7",
+          "streetName": "Camden Street, London, NW1 0, United Kingdom"
+        }
+      }
+    }
+  ],
+  "manifest": {
+    "createdDate": "2019-10-30",
+    "timeZone": "GMT",
+    "currency": "GBP",
+    "unitHeightLength": "meters",
+    "unitWeight": "kilograms",
+    "authority": {
+      "name": "Camden Council",
+      "url": "https://www.camden.gov.uk",
+      "phone": "+442079744444"
+    }
+  }
+}
