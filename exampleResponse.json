@@ -27,15 +27,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-G"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -63,15 +61,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-G"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -119,7 +115,7 @@
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/53A77CA4-3E5D-4C2E-B6EC-81C2466A2989"
+          "https://fordspacesprod.blob.core.windows.net/images/53A77CA4-3E5D-4C2E-B6EC-81C2466A2989?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -214,7 +210,7 @@
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/DA877882-E220-4A8B-A7C1-69D446C43CD8"
+          "https://fordspacesprod.blob.core.windows.net/images/DA877882-E220-4A8B-A7C1-69D446C43CD8?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -225,15 +221,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-G"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -261,15 +255,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-G"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -306,12 +298,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.13853807396186915,
-            51.538160064526394
+            -0.13853980784777598,
+            51.5381642133898
           ],
           [
-            -0.13829282962127576,
-            51.5382625566222
+            -0.13829456350718258,
+            51.538266705485604
           ]
         ]
       },
@@ -326,15 +318,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "CarClub"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "CarClub"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -356,8 +346,8 @@
         "location": {
           "shstRefId": "bcdc8405-09dc-a210-bf53-3f5fc5207c30",
           "sideOfStreet": "left",
-          "shstLocationStart": 110.36602116076895,
-          "shstLocationEnd": 130.8008116141786,
+          "shstLocationStart": 110.52341390449737,
+          "shstLocationEnd": 130.95820232384148,
           "objectId": "0c20cfc7-003f-4f0c-9965-940c6921005d",
           "streetName": "53 Pratt Street, London, NW1 0BJ, United Kingdom"
         }
@@ -369,18 +359,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.14012989487042116,
-            51.53907176166356
+            -0.14013125089778458,
+            51.53907604892582
           ],
           [
-            -0.13947514582104514,
-            51.539278853642735
+            -0.13947650184840857,
+            51.539283140905
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/DF3268E1-F968-4161-AEDC-FBC8EB02DAEF"
+          "https://fordspacesprod.blob.core.windows.net/images/DF3268E1-F968-4161-AEDC-FBC8EB02DAEF?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -391,51 +381,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
-            "timeSpans": [
+            "userClasses": [
               {
-                "daysOfWeek": {
-                  "days": [
-                    "mo",
-                    "tu",
-                    "we",
-                    "th",
-                    "fr"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "08:30",
-                  "to": "18:30"
-                }
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
               }
             ],
-            "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
-              "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -451,13 +403,47 @@
               }
             ],
             "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
           }
         ],
         "location": {
           "shstRefId": "d30fe498-2fa0-db38-1059-72c96505b3a3",
           "sideOfStreet": "left",
-          "shstLocationStart": 66.52542307031497,
-          "shstLocationEnd": 117.32765289937517,
+          "shstLocationStart": 66.65792902327246,
+          "shstLocationEnd": 117.4601559391518,
           "objectId": "0d02c335-e89f-4a6f-ae2a-a797875a3b6e",
           "streetName": "NW1 0HU, London, England, United Kingdom"
         }
@@ -469,18 +455,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.1373384195549899,
-            51.53966936451087
+            -0.13733702617759916,
+            51.5396650892416
           ],
           [
-            -0.13774319331791038,
-            51.53953744238538
+            -0.13774179994051963,
+            51.53953316711611
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/318AB10C-BA7F-4E08-8C49-7406DC07949F"
+          "https://fordspacesprod.blob.core.windows.net/images/318AB10C-BA7F-4E08-8C49-7406DC07949F?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -491,15 +477,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-G"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -527,15 +511,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-G"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -559,8 +541,8 @@
         "location": {
           "shstRefId": "57c6460c-5280-904c-6697-2ec0076b9b26",
           "sideOfStreet": "left",
-          "shstLocationStart": 27.80611495500446,
-          "shstLocationEnd": 59.410376636207076,
+          "shstLocationStart": 27.942175699581995,
+          "shstLocationEnd": 59.54643783748267,
           "objectId": "0fc4ccf6-9d6e-41a8-9547-d3af133e6a0c",
           "streetName": "16 Georgiana Street, London, NW1 0EA, United Kingdom"
         }
@@ -572,12 +554,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.1395668273476003,
-            51.53713623039463
+            -0.1395701095799334,
+            51.53713315689844
           ],
           [
-            -0.1392047100712263,
-            51.53674951996467
+            -0.13920799230355943,
+            51.536746446468484
           ]
         ]
       },
@@ -592,15 +574,44 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
                   ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
                 }
-              ]
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
             },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -619,46 +630,13 @@
               }
             ],
             "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
-              "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "sa",
-                    "su"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "09:30",
-                  "to": "17:30"
-                }
-              }
-            ],
-            "priority": 4
           }
         ],
         "location": {
           "shstRefId": "75cee0d0-4650-6cc6-0d67-9a83aaffcb95",
           "sideOfStreet": "right",
-          "shstLocationStart": 55.57068065154776,
-          "shstLocationEnd": 105.29785050970555,
+          "shstLocationStart": 55.76176694146796,
+          "shstLocationEnd": 105.47454730911147,
           "objectId": "199cd00f-4571-4ed0-8f2a-6486bfc3f19e",
           "streetName": "59 Bayham Street, London, NW1 0AA, United Kingdom"
         }
@@ -670,24 +648,80 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.13841359846784568,
-            51.53626731730604
+            -0.13841502157878108,
+            51.53627158277005
           ],
           [
-            -0.13803307064392206,
-            51.536394274961005
+            -0.13803447489331894,
+            51.5363985467179
           ],
           [
-            -0.13703218542216186,
-            51.53671839770489
+            -0.1370335707549374,
+            51.53672267558766
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/44E934AC-7C80-4E54-A831-DC33BC420E48"
+          "https://fordspacesprod.blob.core.windows.net/images/44E934AC-7C80-4E54-A831-DC33BC420E48?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "sa"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "09:30",
+                        "to": "17:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          },
           {
             "rule": {
               "activity": "parking",
@@ -751,68 +785,12 @@
               "deviceIds": []
             },
             "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "Paid",
-              "maxStay": 120,
-              "noReturn": 0,
-              "payment": true
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "sa"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "09:30",
-                  "to": "17:30"
-                }
-              }
-            ],
-            "payment": {
-              "rates": [
-                {
-                  "fees": [
-                    3.45
-                  ],
-                  "durations": [
-                    60
-                  ],
-                  "timeSpans": [
-                    {
-                      "daysOfWeek": {
-                        "days": [
-                          "sa"
-                        ]
-                      },
-                      "timesOfDay": {
-                        "from": "09:30",
-                        "to": "17:30"
-                      }
-                    }
-                  ]
-                }
-              ],
-              "methods": [
-                "phone",
-                "digital"
-              ],
-              "forms": [],
-              "operator": "RINGGO",
-              "phone": "020 7125 0039",
-              "deviceIds": []
-            },
-            "priority": 4
           }
         ],
         "location": {
           "shstRefId": "d295fc4d-d84b-cb9d-3fd3-e3ae6e44705e",
           "sideOfStreet": "left",
-          "shstLocationStart": 18.811415456436713,
+          "shstLocationStart": 18.952239302833547,
           "shstLocationEnd": 45.42,
           "objectId": "1b367022-4f1c-4d63-8a63-8874a2c23c89",
           "streetName": "21 Plender Street, London, NW1 0, United Kingdom"
@@ -825,18 +803,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.1399223931372602,
-            51.5391090958528
+            -0.13992103710989678,
+            51.53910480859054
           ],
           [
-            -0.14027142758802594,
-            51.5389986989988
+            -0.1402700715606625,
+            51.53899441173654
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/3D381AB2-1D94-4326-8B2C-B77190337C18"
+          "https://fordspacesprod.blob.core.windows.net/images/3D381AB2-1D94-4326-8B2C-B77190337C18?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -847,15 +825,44 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
                   ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
                 }
-              ]
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
             },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -874,46 +881,13 @@
               }
             ],
             "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
-              "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "sa",
-                    "su"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "09:30",
-                  "to": "17:30"
-                }
-              }
-            ],
-            "priority": 4
           }
         ],
         "location": {
           "shstRefId": "4d627244-3460-2bf3-4aee-f987c5412241",
           "sideOfStreet": "left",
-          "shstLocationStart": 75.52063353370674,
-          "shstLocationEnd": 102.60261138646781,
+          "shstLocationStart": 75.65313929670779,
+          "shstLocationEnd": 102.73511752548185,
           "objectId": "26586af4-fbb9-44da-86d8-a228552f377c",
           "streetName": "21 Carol Street, London, NW1 0HT, United Kingdom"
         }
@@ -936,7 +910,7 @@
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/BB2723D7-5269-4862-9B74-C3E73640508F"
+          "https://fordspacesprod.blob.core.windows.net/images/BB2723D7-5269-4862-9B74-C3E73640508F?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -947,15 +921,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-G"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -983,15 +955,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-G"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -1048,15 +1018,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-G"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -1084,15 +1052,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-G"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -1129,18 +1095,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.13932280762198848,
-            51.53932703701799
+            -0.13932416364935205,
+            51.539331324280255
           ],
           [
-            -0.1391847880502397,
-            51.539370691523956
+            -0.13918614407760327,
+            51.53937497878622
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/5C132C45-833A-4327-B57E-9868CF8C9B2F"
+          "https://fordspacesprod.blob.core.windows.net/images/5C132C45-833A-4327-B57E-9868CF8C9B2F?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -1151,15 +1117,44 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
                   ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
                 }
-              ]
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
             },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -1178,46 +1173,13 @@
               }
             ],
             "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
-              "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "sa",
-                    "su"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "09:30",
-                  "to": "17:30"
-                }
-              }
-            ],
-            "priority": 4
           }
         ],
         "location": {
           "shstRefId": "d30fe498-2fa0-db38-1059-72c96505b3a3",
           "sideOfStreet": "left",
-          "shstLocationStart": 129.14739769913393,
-          "shstLocationEnd": 139.85614877950152,
+          "shstLocationStart": 129.27990057547237,
+          "shstLocationEnd": 139.9886515083051,
           "objectId": "45524a89-b078-48cc-afda-d96054c1eea1",
           "streetName": "Carol Street, London, NW1 0, United Kingdom"
         }
@@ -1229,18 +1191,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.14061363978965805,
-            51.539373466490204
+            -0.1406103192673901,
+            51.539376498578555
           ],
           [
-            -0.14052384965336312,
-            51.539275134874416
+            -0.14052052913109517,
+            51.53927816696277
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/FFBEB84B-DDE5-47E0-B32D-8317A9F57136"
+          "https://fordspacesprod.blob.core.windows.net/images/FFBEB84B-DDE5-47E0-B32D-8317A9F57136?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -1251,15 +1213,44 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
                   ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
                 }
-              ]
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
             },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -1278,46 +1269,13 @@
               }
             ],
             "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
-              "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "sa",
-                    "su"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "09:30",
-                  "to": "17:30"
-                }
-              }
-            ],
-            "priority": 4
           }
         ],
         "location": {
           "shstRefId": "d30fe498-2fa0-db38-1059-72c96505b3a3",
           "sideOfStreet": "left",
-          "shstLocationStart": 6.414608111779643,
-          "shstLocationEnd": 18.989019838746913,
+          "shstLocationStart": 6.234465495185788,
+          "shstLocationEnd": 18.808876110552887,
           "objectId": "4ce45683-f04a-48a7-9dac-c6359d9113f0",
           "streetName": "Carol Street, London, NW1 0, United Kingdom"
         }
@@ -1329,18 +1287,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.140464107334632,
-            51.53920970943935
+            -0.1404607868123642,
+            51.5392127415277
           ],
           [
-            -0.14040546312143365,
-            51.53914548656947
+            -0.14040214259916586,
+            51.53914851865782
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/726CD130-E8C2-481A-B71D-7F92895CFF58"
+          "https://fordspacesprod.blob.core.windows.net/images/726CD130-E8C2-481A-B71D-7F92895CFF58?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -1351,15 +1309,44 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
                   ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
                 }
-              ]
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
             },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -1378,46 +1365,13 @@
               }
             ],
             "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
-              "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "sa",
-                    "su"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "09:30",
-                  "to": "17:30"
-                }
-              }
-            ],
-            "priority": 4
           }
         ],
         "location": {
           "shstRefId": "d30fe498-2fa0-db38-1059-72c96505b3a3",
           "sideOfStreet": "left",
-          "shstLocationStart": 27.35607535216934,
-          "shstLocationEnd": 35.56870937362932,
+          "shstLocationStart": 27.176120210449056,
+          "shstLocationEnd": 35.38875407572141,
           "objectId": "549c4d56-3d1f-4834-b927-bf41250c7bb7",
           "streetName": "24 Carol Street, London, NW1 0HU, United Kingdom"
         }
@@ -1429,18 +1383,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.14045978281222513,
-            51.53916496264288
+            -0.1404631033344929,
+            51.53916193055453
           ],
           [
-            -0.14051219058992645,
-            51.53922235582295
+            -0.1405156788653014,
+            51.53921950744558
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/9D1976E9-6161-40FF-AC43-50D3F156E1D3"
+          "https://fordspacesprod.blob.core.windows.net/images/9D1976E9-6161-40FF-AC43-50D3F156E1D3?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -1451,15 +1405,44 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
                   ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
                 }
-              ]
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
             },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -1478,23 +1461,45 @@
               }
             ],
             "priority": 4
-          },
+          }
+        ],
+        "location": {
+          "shstRefId": "4d627244-3460-2bf3-4aee-f987c5412241",
+          "sideOfStreet": "left",
+          "shstLocationStart": 124.70855740518198,
+          "shstLocationEnd": 132.0713156738237,
+          "objectId": "55fbf94e-ae7e-41fb-81fa-94921d53c267",
+          "streetName": "45 Carol Street, London, NW1 0HT, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.14078313199259102,
+            51.53935711967874
+          ],
+          [
+            -0.14119247088125536,
+            51.5392102113781
+          ]
+        ]
+      },
+      "properties": {
+        "images": [
+          "https://fordspacesprod.blob.core.windows.net/images/C868C200-AF05-4EB9-915A-ECB090AA01C8?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
+        ],
+        "regulations": [
           {
             "rule": {
               "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
+              "reason": "Paid",
+              "maxStay": 120,
               "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
+              "payment": true
             },
             "timeSpans": [
               {
@@ -1510,39 +1515,42 @@
                 }
               }
             ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "sa",
+                          "su"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "09:30",
+                        "to": "17:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
             "priority": 4
-          }
-        ],
-        "location": {
-          "shstRefId": "4d627244-3460-2bf3-4aee-f987c5412241",
-          "sideOfStreet": "left",
-          "shstLocationStart": 124.88851272363102,
-          "shstLocationEnd": 132.2277784701722,
-          "objectId": "55fbf94e-ae7e-41fb-81fa-94921d53c267",
-          "streetName": "45 Carol Street, London, NW1 0HT, United Kingdom"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.14078465092568507,
-            51.53936135196774
-          ],
-          [
-            -0.1411939898143494,
-            51.5392144436671
-          ]
-        ]
-      },
-      "properties": {
-        "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/C868C200-AF05-4EB9-915A-ECB090AA01C8"
-        ],
-        "regulations": [
+          },
           {
             "rule": {
               "activity": "parking",
@@ -1591,64 +1599,6 @@
                       "timesOfDay": {
                         "from": "08:30",
                         "to": "18:30"
-                      }
-                    }
-                  ]
-                }
-              ],
-              "methods": [
-                "phone",
-                "digital"
-              ],
-              "forms": [],
-              "operator": "RINGGO",
-              "phone": "020 7125 0039",
-              "deviceIds": []
-            },
-            "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "Paid",
-              "maxStay": 120,
-              "noReturn": 0,
-              "payment": true
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "sa",
-                    "su"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "09:30",
-                  "to": "17:30"
-                }
-              }
-            ],
-            "payment": {
-              "rates": [
-                {
-                  "fees": [
-                    3.45
-                  ],
-                  "durations": [
-                    60
-                  ],
-                  "timeSpans": [
-                    {
-                      "daysOfWeek": {
-                        "days": [
-                          "sa",
-                          "su"
-                        ]
-                      },
-                      "timesOfDay": {
-                        "from": "09:30",
-                        "to": "17:30"
                       }
                     }
                   ]
@@ -1669,8 +1619,8 @@
         "location": {
           "shstRefId": "5698a70b-8673-90d3-d053-11940155f283",
           "sideOfStreet": "left",
-          "shstLocationStart": 9.850275738453838,
-          "shstLocationEnd": 42.55532238613642,
+          "shstLocationStart": 9.992329542868692,
+          "shstLocationEnd": 42.703709649607546,
           "objectId": "591c7ba9-6db4-4327-a591-c7fcd749f55c",
           "streetName": "8 Greenland Road, London, NW1 0AY, United Kingdom"
         }
@@ -1682,18 +1632,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.138112782320859,
-            51.5382750926894
+            -0.1381416395107229,
+            51.53829162733258
           ],
           [
-            -0.138682836132157,
-            51.5380441785863
+            -0.1387062446379144,
+            51.53805566852249
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/9E44B6EA-51D2-41C3-86A8-BE5644CA8FF7"
+          "https://fordspacesprod.blob.core.windows.net/images/9E44B6EA-51D2-41C3-86A8-BE5644CA8FF7?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -1704,15 +1654,44 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
                   ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
                 }
-              ]
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
             },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -1731,45 +1710,13 @@
               }
             ],
             "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
-              "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "sa",
-                    "su"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "09:30",
-                  "to": "17:30"
-                }
-              }
-            ],
-            "priority": 4
           }
         ],
         "location": {
+          "shstRefId": "01fad073-3ba8-0839-f782-ce81bc0055c2",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 11.714538705525579,
+          "shstLocationEnd": 58.75991551582572,
           "objectId": "69d889c4-f2ae-4b73-ad9b-96e530f9fc16",
           "streetName": "16 Pratt Street, London, NW1 0, United Kingdom"
         }
@@ -1781,18 +1728,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.137534479280281,
-            51.5379516158257
+            -0.13760271945324207,
+            51.53794703229434
           ],
           [
-            -0.137433906596041,
-            51.5378235532562
+            -0.13749571385471648,
+            51.53782108217217
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/7888A9E6-B730-4C1B-9CA6-A5462AA130A6"
+          "https://fordspacesprod.blob.core.windows.net/images/7888A9E6-B730-4C1B-9CA6-A5462AA130A6?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -1803,15 +1750,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-G"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -1839,15 +1784,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-G"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -1869,9 +1812,10 @@
           }
         ],
         "location": {
+          "shstRefId": "beaab9f1-5d0a-a009-08bd-efb7e0fc630c",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 54.272663568566756,
+          "shstLocationEnd": 70.1124593141618,
           "objectId": "6d86f7d2-a6b3-4fff-8aa1-289e2f048cf4",
           "streetName": "72 Camden Street, London, NW1 0DX, United Kingdom"
         }
@@ -1883,12 +1827,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.138120009267308,
-            51.5395033605595
+            -0.13837661160256753,
+            51.53936339326017
           ],
           [
-            -0.138429345932043,
-            51.5394152901675
+            -0.1380759886301279,
+            51.539461829409035
           ]
         ]
       },
@@ -1903,15 +1847,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-G"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -1939,15 +1881,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-G"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -1969,9 +1909,10 @@
           }
         ],
         "location": {
+          "shstRefId": "4e6b7500-9969-e92d-778f-b6d6803e3c50",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 31.818946137984113,
+          "shstLocationEnd": 55.315754122676594,
           "objectId": "732ac69c-07fd-41d0-aa51-4089118cf4eb",
           "streetName": "28 Georgiana Street, London, NW1 0EA, United Kingdom"
         }
@@ -1983,80 +1924,35 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.140554775165634,
-            51.539493417407
+            -0.14118230037410529,
+            51.53925208085895
           ],
           [
-            -0.140717964018454,
-            51.5394352239965
+            -0.14104332850261053,
+            51.53930195670033
           ],
           [
-            -0.141066576824018,
-            51.5393029857274
+            -0.14069906953611475,
+            51.53942550836168
           ],
           [
-            -0.141202567384985,
-            51.5392677990057
+            -0.14053476951128432,
+            51.539480329002615
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/2CD88003-44A5-4D6F-963C-415F39D382D9"
+          "https://fordspacesprod.blob.core.windows.net/images/2CD88003-44A5-4D6F-963C-415F39D382D9?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
             "rule": {
               "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
+              "reason": "Paid",
+              "maxStay": 120,
               "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "mo",
-                    "tu",
-                    "we",
-                    "th",
-                    "fr"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "08:30",
-                  "to": "18:30"
-                }
-              }
-            ],
-            "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
-              "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
+              "payment": true
             },
             "timeSpans": [
               {
@@ -2072,6 +1968,40 @@
                 }
               }
             ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "sa",
+                          "su"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "09:30",
+                        "to": "17:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
             "priority": 4
           },
           {
@@ -2141,11 +2071,18 @@
           {
             "rule": {
               "activity": "parking",
-              "reason": "Paid",
-              "maxStay": 120,
+              "reason": "residentpermit",
+              "maxStay": 0,
               "noReturn": 0,
-              "payment": true
+              "payment": false
             },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -2160,47 +2097,48 @@
                 }
               }
             ],
-            "payment": {
-              "rates": [
-                {
-                  "fees": [
-                    3.45
-                  ],
-                  "durations": [
-                    60
-                  ],
-                  "timeSpans": [
-                    {
-                      "daysOfWeek": {
-                        "days": [
-                          "sa",
-                          "su"
-                        ]
-                      },
-                      "timesOfDay": {
-                        "from": "09:30",
-                        "to": "17:30"
-                      }
-                    }
-                  ]
-                }
-              ],
-              "methods": [
-                "phone",
-                "digital"
-              ],
-              "forms": [],
-              "operator": "RINGGO",
-              "phone": "020 7125 0039",
-              "deviceIds": []
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
             },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
             "priority": 4
           }
         ],
         "location": {
+          "shstRefId": "656d3950-d801-1486-5596-9928d762c360",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 7.965696357744719,
+          "shstLocationEnd": 47.7,
           "objectId": "75920eb3-f910-46d4-b250-591a7aa45d4d",
           "streetName": "13 Greenland Road, London, NW1 0AX, United Kingdom"
         }
@@ -2212,18 +2150,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.137513935708059,
-            51.5377093859218
+            -0.13750593200807373,
+            51.53769421088939
           ],
           [
-            -0.137422558179042,
-            51.5376182227146
+            -0.13742557739406228,
+            51.53759940513113
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/5C8990CA-BA46-424E-9D5D-72FDC7C396A7"
+          "https://fordspacesprod.blob.core.windows.net/images/5C8990CA-BA46-424E-9D5D-72FDC7C396A7?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -2234,15 +2172,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-G"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -2270,15 +2206,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-G"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -2300,9 +2234,10 @@
           }
         ],
         "location": {
-          "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstRefId": "beaab9f1-5d0a-a009-08bd-efb7e0fc630c",
+          "sideOfStreet": "right",
+          "shstLocationStart": 82.25944072515247,
+          "shstLocationEnd": 94.17634768341645,
           "objectId": "7cc5a046-7a24-4827-920b-3eacfca659fb",
           "streetName": "NW1 0HL, London, England, United Kingdom"
         }
@@ -2314,18 +2249,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.139504268204394,
-            51.5392459810567
+            -0.13950502748020258,
+            51.53923638916733
           ],
           [
-            -0.139771838598281,
-            51.5391497174521
+            -0.1397801551353211,
+            51.53914936845202
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/C2086140-7055-4AE6-B1E1-6F88E58C1B2D"
+          "https://fordspacesprod.blob.core.windows.net/images/C2086140-7055-4AE6-B1E1-6F88E58C1B2D?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -2336,15 +2271,44 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
                   ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
                 }
-              ]
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
             },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -2363,45 +2327,13 @@
               }
             ],
             "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
-              "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "sa",
-                    "su"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "09:30",
-                  "to": "17:30"
-                }
-              }
-            ],
-            "priority": 4
           }
         ],
         "location": {
+          "shstRefId": "4d627244-3460-2bf3-4aee-f987c5412241",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 43.37484561180902,
+          "shstLocationEnd": 64.72199555750699,
           "objectId": "8afbb8d1-2dbf-47a2-93ce-cceafb59c691",
           "streetName": "5 Carol Street, London, NW1 0HT, United Kingdom"
         }
@@ -2413,18 +2345,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.140529442674619,
-            51.5394293746475
+            -0.13943556969393428,
+            51.539807086814264
           ],
           [
-            -0.139411002416646,
-            51.5397892369969
+            -0.14054620976627402,
+            51.53943851127206
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/BF0C7B75-04F2-497D-B96E-0CB3E0315726"
+          "https://fordspacesprod.blob.core.windows.net/images/BF0C7B75-04F2-497D-B96E-0CB3E0315726?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -2435,15 +2367,44 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
                   ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
                 }
-              ]
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
             },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -2462,45 +2423,13 @@
               }
             ],
             "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
-              "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "sa",
-                    "su"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "09:30",
-                  "to": "17:30"
-                }
-              }
-            ],
-            "priority": 4
           }
         ],
         "location": {
+          "shstRefId": "896f72b7-9723-c847-4bd1-b2ee143cb0fb",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 9.352334267736541,
+          "shstLocationEnd": 96.40907674192741,
           "objectId": "9eab9f86-2251-48f9-87eb-3f18d28e4888",
           "streetName": "32 Greenland Road, London, NW1 0AY, United Kingdom"
         }
@@ -2512,18 +2441,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.140316388340352,
-            51.5390920180823
+            -0.14040160949365726,
+            51.5391479348395
           ],
           [
-            -0.140365590865107,
-            51.5391532235072
+            -0.14034735091142883,
+            51.53908851479315
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/875AC89E-6585-4851-9303-1A47C0399476"
+          "https://fordspacesprod.blob.core.windows.net/images/875AC89E-6585-4851-9303-1A47C0399476?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -2534,15 +2463,44 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
                   ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
                 }
-              ]
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
             },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -2561,45 +2519,13 @@
               }
             ],
             "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
-              "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "sa",
-                    "su"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "09:30",
-                  "to": "17:30"
-                }
-              }
-            ],
-            "priority": 4
           }
         ],
         "location": {
+          "shstRefId": "d30fe498-2fa0-db38-1059-72c96505b3a3",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 35.4634111443346,
+          "shstLocationEnd": 43.06192205958634,
           "objectId": "9ff9f2c6-1daa-4ce4-8e00-b96c17f9e465",
           "streetName": "24 Carol Street, London, NW1 0HU, United Kingdom"
         }
@@ -2611,12 +2537,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.138735985854259,
-            51.5391527172944
+            -0.13875397916592042,
+            51.539127962642915
           ],
           [
-            -0.138414120386272,
-            51.5387973723394
+            -0.13843305179521911,
+            51.538772291656215
           ]
         ]
       },
@@ -2631,51 +2557,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-G"
-                  ]
-                }
-              ]
-            },
-            "timeSpans": [
+            "userClasses": [
               {
-                "daysOfWeek": {
-                  "days": [
-                    "mo",
-                    "tu",
-                    "we",
-                    "th",
-                    "fr"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "08:30",
-                  "to": "17:30"
-                }
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
               }
             ],
-            "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
-              "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -2694,12 +2582,47 @@
               }
             ],
             "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-G"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "priority": 4
           }
         ],
         "location": {
-          "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstRefId": "0fa831a8-d275-6a64-76fb-119fda06374b",
+          "sideOfStreet": "right",
+          "shstLocationStart": 9.067351534616376,
+          "shstLocationEnd": 54.40930169642065,
           "objectId": "a72ffbfd-23a5-4d64-a44a-7d99ef71d0e7",
           "streetName": "Camden Street, London, NW1 0, United Kingdom"
         }
@@ -2711,18 +2634,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.137986097407924,
-            51.5382449858417
+            -0.13796467160304238,
+            51.53823416677694
           ],
           [
-            -0.137927320638871,
-            51.5381838797695
+            -0.13791125991400255,
+            51.53817129895645
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/DA70AF35-514F-409D-B5E7-9C94F6646A45"
+          "https://fordspacesprod.blob.core.windows.net/images/DA70AF35-514F-409D-B5E7-9C94F6646A45?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -2791,9 +2714,10 @@
           }
         ],
         "location": {
-          "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstRefId": "beaab9f1-5d0a-a009-08bd-efb7e0fc630c",
+          "sideOfStreet": "right",
+          "shstLocationStart": 14.353537022711889,
+          "shstLocationEnd": 22.25985684225779,
           "objectId": "aa9cc6c5-a40d-4be5-8629-08ebeae06b93",
           "streetName": "80 Camden Street, London, NW1 0, United Kingdom"
         }
@@ -2805,22 +2729,22 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.140140822499557,
-            51.5396279609934
+            -0.14052466185575413,
+            51.53948366207358
           ],
           [
-            -0.140401900768886,
-            51.5395456250792
+            -0.1403806129400383,
+            51.53953122230219
           ],
           [
-            -0.140549675429745,
-            51.5395025448143
+            -0.14012226695604227,
+            51.539616743978584
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/556D8A48-3415-47DE-ADAA-A6C5B6ED29A8"
+          "https://fordspacesprod.blob.core.windows.net/images/556D8A48-3415-47DE-ADAA-A6C5B6ED29A8?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -2831,15 +2755,44 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa",
+                    "su"
                   ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
                 }
-              ]
+              }
+            ],
+            "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
             },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -2858,45 +2811,13 @@
               }
             ],
             "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
-              "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "sa",
-                    "su"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "09:30",
-                  "to": "17:30"
-                }
-              }
-            ],
-            "priority": 4
           }
         ],
         "location": {
+          "shstRefId": "91e63897-8100-d895-15e0-8d885b7bea4b",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 12.735988882389506,
+          "shstLocationEnd": 44.24705975056004,
           "objectId": "abf93664-eb6f-4020-a4a3-789d25c01247",
           "streetName": "NW1 0AX, London, England, United Kingdom"
         }
@@ -2908,18 +2829,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.13684792295978,
-            51.5367228909156
+            -0.13686935784043544,
+            51.53673803912362
           ],
           [
-            -0.137237533078277,
-            51.5366075518837
+            -0.13725146751932338,
+            51.53661378249404
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/EB1826DC-BB96-4BFD-8969-7CDCE63AD68D"
+          "https://fordspacesprod.blob.core.windows.net/images/EB1826DC-BB96-4BFD-8969-7CDCE63AD68D?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -2930,51 +2851,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
-            "timeSpans": [
+            "userClasses": [
               {
-                "daysOfWeek": {
-                  "days": [
-                    "mo",
-                    "tu",
-                    "we",
-                    "th",
-                    "fr"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "08:30",
-                  "to": "18:30"
-                }
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
               }
             ],
-            "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "residentpermit",
-              "maxStay": 0,
-              "noReturn": 0,
-              "payment": false
-            },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -2990,12 +2873,47 @@
               }
             ],
             "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
           }
         ],
         "location": {
+          "shstRefId": "4109b53e-bd44-8f79-90d8-d53f5d089c99",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 14.521648250844038,
+          "shstLocationEnd": 44.34352998312626,
           "objectId": "b17cb2a3-24fe-451b-94e9-b6cf0762ce63",
           "streetName": "Plender Street, London, NW1 0, United Kingdom"
         }
@@ -3007,18 +2925,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.137849767283753,
-            51.5384600658461
+            -0.13782943779403906,
+            51.53844800170777
           ],
           [
-            -0.137610096765953,
-            51.538568014745
+            -0.13757323418280873,
+            51.53853767720136
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/F69BA5B3-C05D-4FB2-9137-95910E8DB5BA"
+          "https://fordspacesprod.blob.core.windows.net/images/F69BA5B3-C05D-4FB2-9137-95910E8DB5BA?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -3087,9 +3005,10 @@
           }
         ],
         "location": {
+          "shstRefId": "2afe7896-1482-aeb6-f8b9-7d8b9956b1ac",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 15.950863617449066,
+          "shstLocationEnd": 36.283507438967504,
           "objectId": "c81faac8-8a5c-4f30-9aa8-56920a37a293",
           "streetName": "Pratt Street, London, NW1 0, United Kingdom"
         }
@@ -3101,18 +3020,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.137208603732884,
-            51.539798661587
+            -0.13786932269944766,
+            51.539529500211586
           ],
           [
-            -0.137917423899381,
-            51.5395758444885
+            -0.1371441833258252,
+            51.539766601265654
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/89E545AF-8BD7-4F63-AF46-04548DEDDF53"
+          "https://fordspacesprod.blob.core.windows.net/images/89E545AF-8BD7-4F63-AF46-04548DEDDF53?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -3123,15 +3042,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-G"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -3159,15 +3076,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-G"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -3189,9 +3104,10 @@
           }
         ],
         "location": {
+          "shstRefId": "4e6b7500-9969-e92d-778f-b6d6803e3c50",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 71.46861418010066,
+          "shstLocationEnd": 128.12629267822172,
           "objectId": "c83a9f9c-289a-47e0-af94-7b1f936ff2e6",
           "streetName": "48 Georgiana Street, London, NW1 0EB, United Kingdom"
         }
@@ -3203,26 +3119,35 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.138883499105395,
-            51.5365053072513
+            -0.13722680270456541,
+            51.53750456230612
           ],
           [
-            -0.138687697814482,
-            51.5362934231083
+            -0.13683950580828486,
+            51.537047571886454
           ]
         ]
       },
       "properties": {
-        "images": [],
+        "images": [
+          "https://fordspacesprod.blob.core.windows.net/images/CC21AF0C-91C7-4A5E-9DDE-66D86547E2E8?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
+        ],
         "regulations": [
           {
             "rule": {
               "activity": "parking",
-              "reason": "Paid",
-              "maxStay": 120,
+              "reason": "residentpermit",
+              "maxStay": 0,
               "noReturn": 0,
-              "payment": true
+              "payment": false
             },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -3240,45 +3165,71 @@
                 }
               }
             ],
-            "payment": {
-              "rates": [
-                {
-                  "fees": [
-                    3.45
-                  ],
-                  "durations": [
-                    60
-                  ],
-                  "timeSpans": [
-                    {
-                      "daysOfWeek": {
-                        "days": [
-                          "mo",
-                          "tu",
-                          "we",
-                          "th",
-                          "fr"
-                        ]
-                      },
-                      "timesOfDay": {
-                        "from": "08:30",
-                        "to": "18:30"
-                      }
-                    }
-                  ]
-                }
-              ],
-              "methods": [
-                "phone",
-                "digital"
-              ],
-              "forms": [],
-              "operator": "RINGGO",
-              "phone": "020 7125 0039",
-              "deviceIds": []
-            },
             "priority": 4
           },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "residentpermit",
+              "maxStay": 0,
+              "noReturn": 0,
+              "payment": false
+            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-G"
+                ]
+              }
+            ],
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "priority": 4
+          }
+        ],
+        "location": {
+          "shstRefId": "beaab9f1-5d0a-a009-08bd-efb7e0fc630c",
+          "sideOfStreet": "left",
+          "shstLocationStart": 109.91937268089433,
+          "shstLocationEnd": 167.36412601627632,
+          "objectId": "d69b8bf6-33ac-4020-82a2-2daa79f32118",
+          "streetName": "44a Camden Street, London, NW1 0, United Kingdom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.13892069818068944,
+            51.5364991221204
+          ],
+          [
+            -0.13871928631858818,
+            51.5362893169043
+          ]
+        ]
+      },
+      "properties": {
+        "images": [],
+        "regulations": [
           {
             "rule": {
               "activity": "parking",
@@ -3336,12 +3287,77 @@
               "deviceIds": []
             },
             "priority": 4
+          },
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "mo",
+                    "tu",
+                    "we",
+                    "th",
+                    "fr"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "08:30",
+                  "to": "18:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "mo",
+                          "tu",
+                          "we",
+                          "th",
+                          "fr"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "08:30",
+                        "to": "18:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
           }
         ],
         "location": {
+          "shstRefId": "75cee0d0-4650-6cc6-0d67-9a83aaffcb95",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 139.2765960903219,
+          "shstLocationEnd": 166.4491212826332,
           "objectId": "d9ac079b-e8ec-460e-8166-743082648514",
           "streetName": "Bayham Street, London, NW1 0, United Kingdom"
         }
@@ -3353,18 +3369,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.1376724344568,
-            51.5381071041253
+            -0.13773609640927306,
+            51.53810402262137
           ],
           [
-            -0.137604685314705,
-            51.5379956686628
+            -0.1376473011385878,
+            51.537999506826445
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/7D38CE48-0CDB-49EE-B5DD-AA027B774EAF"
+          "https://fordspacesprod.blob.core.windows.net/images/7D38CE48-0CDB-49EE-B5DD-AA027B774EAF?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -3375,15 +3391,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-G"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -3411,15 +3425,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-G"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -3441,9 +3453,10 @@
           }
         ],
         "location": {
+          "shstRefId": "beaab9f1-5d0a-a009-08bd-efb7e0fc630c",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 34.52926382989861,
+          "shstLocationEnd": 47.673356516274154,
           "objectId": "d9eee419-340f-48fe-b42d-13823cb25902",
           "streetName": "Camden Street, London, NW1 0, United Kingdom"
         }
@@ -3455,18 +3468,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.138138484019447,
-            51.5394245896795
+            -0.13849285438983835,
+            51.53932533065896
           ],
           [
-            -0.138496503084352,
-            51.5393191660453
+            -0.13814265883177154,
+            51.53943999888211
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/38F68939-773A-47E1-BC2A-94E46D7AD410"
+          "https://fordspacesprod.blob.core.windows.net/images/38F68939-773A-47E1-BC2A-94E46D7AD410?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -3535,9 +3548,10 @@
           }
         ],
         "location": {
+          "shstRefId": "4e6b7500-9969-e92d-778f-b6d6803e3c50",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 22.733329907180348,
+          "shstLocationEnd": 50.104796582825436,
           "objectId": "ddc5b22f-d259-4a01-b4d7-a08a7d0d435c",
           "streetName": "29 Georgiana Street, London, NW1 0, United Kingdom"
         }
@@ -3549,20 +3563,76 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.137573469756899,
-            51.5365078094071
+            -0.13758163133385087,
+            51.53650708519738
           ],
           [
-            -0.137709794491153,
-            51.5364610713724
+            -0.13771972056400614,
+            51.53646245964321
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/CA3FCE11-EE45-46EE-8B99-3E54D04A83A5"
+          "https://fordspacesprod.blob.core.windows.net/images/CA3FCE11-EE45-46EE-8B99-3E54D04A83A5?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "sa"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "09:30",
+                        "to": "17:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          },
           {
             "rule": {
               "activity": "parking",
@@ -3626,68 +3696,13 @@
               "deviceIds": []
             },
             "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "Paid",
-              "maxStay": 120,
-              "noReturn": 0,
-              "payment": true
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "sa"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "09:30",
-                  "to": "17:30"
-                }
-              }
-            ],
-            "payment": {
-              "rates": [
-                {
-                  "fees": [
-                    3.45
-                  ],
-                  "durations": [
-                    60
-                  ],
-                  "timeSpans": [
-                    {
-                      "daysOfWeek": {
-                        "days": [
-                          "sa"
-                        ]
-                      },
-                      "timesOfDay": {
-                        "from": "09:30",
-                        "to": "17:30"
-                      }
-                    }
-                  ]
-                }
-              ],
-              "methods": [
-                "phone",
-                "digital"
-              ],
-              "forms": [],
-              "operator": "RINGGO",
-              "phone": "020 7125 0039",
-              "deviceIds": []
-            },
-            "priority": 4
           }
         ],
         "location": {
+          "shstRefId": "4109b53e-bd44-8f79-90d8-d53f5d089c99",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 70.07747589459515,
+          "shstLocationEnd": 80.84067235710266,
           "objectId": "e0815734-79f7-49d2-a8d1-680145493612",
           "streetName": "69 Plender Street, London, NW1 0LB, United Kingdom"
         }
@@ -3699,20 +3714,76 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.137831143411296,
-            51.5364211189616
+            -0.13784155488312583,
+            51.536423087101255
           ],
           [
-            -0.137951826679823,
-            51.5363866122673
+            -0.13795928338742144,
+            51.53638504141341
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/EDB821B0-BDB4-4BFA-84E4-2FF39B4D8F93"
+          "https://fordspacesprod.blob.core.windows.net/images/EDB821B0-BDB4-4BFA-84E4-2FF39B4D8F93?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
+          {
+            "rule": {
+              "activity": "parking",
+              "reason": "Paid",
+              "maxStay": 120,
+              "noReturn": 0,
+              "payment": true
+            },
+            "timeSpans": [
+              {
+                "daysOfWeek": {
+                  "days": [
+                    "sa"
+                  ]
+                },
+                "timesOfDay": {
+                  "from": "09:30",
+                  "to": "17:30"
+                }
+              }
+            ],
+            "payment": {
+              "rates": [
+                {
+                  "fees": [
+                    3.45
+                  ],
+                  "durations": [
+                    60
+                  ],
+                  "timeSpans": [
+                    {
+                      "daysOfWeek": {
+                        "days": [
+                          "sa"
+                        ]
+                      },
+                      "timesOfDay": {
+                        "from": "09:30",
+                        "to": "17:30"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "methods": [
+                "phone",
+                "digital"
+              ],
+              "forms": [],
+              "operator": "RINGGO",
+              "phone": "020 7125 0039",
+              "deviceIds": []
+            },
+            "priority": 4
+          },
           {
             "rule": {
               "activity": "parking",
@@ -3776,68 +3847,13 @@
               "deviceIds": []
             },
             "priority": 4
-          },
-          {
-            "rule": {
-              "activity": "parking",
-              "reason": "Paid",
-              "maxStay": 120,
-              "noReturn": 0,
-              "payment": true
-            },
-            "timeSpans": [
-              {
-                "daysOfWeek": {
-                  "days": [
-                    "sa"
-                  ]
-                },
-                "timesOfDay": {
-                  "from": "09:30",
-                  "to": "17:30"
-                }
-              }
-            ],
-            "payment": {
-              "rates": [
-                {
-                  "fees": [
-                    3.45
-                  ],
-                  "durations": [
-                    60
-                  ],
-                  "timeSpans": [
-                    {
-                      "daysOfWeek": {
-                        "days": [
-                          "sa"
-                        ]
-                      },
-                      "timesOfDay": {
-                        "from": "09:30",
-                        "to": "17:30"
-                      }
-                    }
-                  ]
-                }
-              ],
-              "methods": [
-                "phone",
-                "digital"
-              ],
-              "forms": [],
-              "operator": "RINGGO",
-              "phone": "020 7125 0039",
-              "deviceIds": []
-            },
-            "priority": 4
           }
         ],
         "location": {
+          "shstRefId": "4109b53e-bd44-8f79-90d8-d53f5d089c99",
           "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstLocationStart": 90.33692221330932,
+          "shstLocationEnd": 99.51316870156062,
           "objectId": "f1deca2c-5602-41ba-9ef7-f0191c4223c4",
           "streetName": "72 Plender Street, London, NW1 0, United Kingdom"
         }
@@ -3849,18 +3865,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -0.137275211116236,
-            51.5374271512367
+            -0.1372666868153617,
+            51.53741210765056
           ],
           [
-            -0.136909218604894,
-            51.5370142059094
+            -0.13691295733574135,
+            51.53699513744084
           ]
         ]
       },
       "properties": {
         "images": [
-          "https://fordspacesdev.blob.core.windows.net/images/1A76AC42-4ED1-472C-A1E0-9ADB8E95FD73"
+          "https://fordspacesprod.blob.core.windows.net/images/1A76AC42-4ED1-472C-A1E0-9ADB8E95FD73?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2019-12-31T01:15:21Z&st=2019-07-04T16:15:21Z&spr=https&sig=XM7fTquAaxv%2Fofax7YmxjWpVE%2FndpYYBt1wtmidhlmM%3D"
         ],
         "regulations": [
           {
@@ -3871,15 +3887,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-G"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-F"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -3907,15 +3921,13 @@
               "noReturn": 0,
               "payment": false
             },
-            "userClasses": {
-              "userClasses": [
-                {
-                  "classes": [
-                    "ResidentPermit CA-F"
-                  ]
-                }
-              ]
-            },
+            "userClasses": [
+              {
+                "classes": [
+                  "ResidentPermit CA-G"
+                ]
+              }
+            ],
             "timeSpans": [
               {
                 "daysOfWeek": {
@@ -3937,9 +3949,10 @@
           }
         ],
         "location": {
-          "sideOfStreet": "left",
-          "shstLocationStart": 0.0,
-          "shstLocationEnd": 0.0,
+          "shstRefId": "beaab9f1-5d0a-a009-08bd-efb7e0fc630c",
+          "sideOfStreet": "right",
+          "shstLocationStart": 117.7246342602274,
+          "shstLocationEnd": 170.1500777236873,
           "objectId": "f50bdf2d-a5a1-4ff4-8ca1-07954c9458b7",
           "streetName": "Camden Street, London, NW1 0, United Kingdom"
         }
@@ -3947,7 +3960,7 @@
     }
   ],
   "manifest": {
-    "createdDate": "2019-10-30",
+    "createdDate": "2019-11-25",
     "timeZone": "GMT",
     "currency": "GBP",
     "unitHeightLength": "meters",
